@@ -1,0 +1,6 @@
+---
+description: Applies the project AI Engineering Assist workflow to non-trivial changes.
+alwaysApply: true
+---
+
+Read `<PROJECT_PROFILE>` before planning or editing. For non-trivial work, load the matching workflow from `ai-engineering-assist/agents/` and create only risk-appropriate evidence. Use the agreed plan before requested local edits; stop for material uncertainty or deviation. Hand off to the project's PR, approval, CI/CD, and release processes.
